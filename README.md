@@ -24,4 +24,5 @@ Next steps:
 Recommendations:
  - Acceptance rate is highest among younger people and decreases as age increases until age of 40. The coupon count is least in 'below21' age group, so company can focus on providing more coupons to below21s.
  - Acceptance rate for Coffee coupons is not good among people over 30 years old. 31-45 year olds receive Coffee coupons more than any other coupons. The company can focus on providing more of Carry-Out and Restaurant-less-than-$20 Coupons to people over 30 years old as acceptance rate is good for these coupons and company may reduce number of coffee coupons they are providing.
+ ![alt text](images/fig3738.png)
 - Dataset shows that Coupons in Opposite direction are highly accepted Only when going to a Non-Urgent place. Otherwise, coupons in same direction are preferred. Dataset shows that when going Home or to Work, More coupons are provided in Opposite direction. Based on analysis, providing more coupons in same direction will show more Acceptance.
